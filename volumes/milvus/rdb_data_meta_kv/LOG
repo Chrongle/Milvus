@@ -1,0 +1,51 @@
+2024/11/06-12:28:34.268095 25 RocksDB version: 6.29.5
+2024/11/06-12:28:34.268643 25 Git sha 0
+2024/11/06-12:28:34.268649 25 Compile date 2024-08-01 10:48:03
+2024/11/06-12:28:34.268659 25 DB SUMMARY
+2024/11/06-12:28:34.268661 25 DB Session ID:  W1GQOXMAXT4VOLYTXHGQ
+2024/11/06-12:28:34.270876 25 CURRENT file:  CURRENT
+2024/11/06-12:28:34.270886 25 IDENTITY file:  IDENTITY
+2024/11/06-12:28:34.271589 25 MANIFEST file:  MANIFEST-000037 size: 269 Bytes
+2024/11/06-12:28:34.271600 25 SST files in /var/lib/milvus/rdb_data_meta_kv dir, Total Num: 2, files: 000032.sst 000036.sst 
+2024/11/06-12:28:34.271607 25 Write Ahead Log file in /var/lib/milvus/rdb_data_meta_kv: 000038.log size: 16101 ; 
+2024/11/06-12:28:34.271613 25                         Options.error_if_exists: 0
+2024/11/06-12:28:34.271616 25                       Options.create_if_missing: 1
+2024/11/06-12:28:34.271618 25                         Options.paranoid_checks: 1
+2024/11/06-12:28:34.271619 25             Options.flush_verify_memtable_count: 1
+2024/11/06-12:28:34.271621 25                               Options.track_and_verify_wals_in_manifest: 0
+2024/11/06-12:28:34.271623 25                                     Options.env: 0x7f8ef9771d00
+2024/11/06-12:28:34.271626 25                                      Options.fs: PosixFileSystem
+2024/11/06-12:28:34.271628 25                                Options.info_log: 0x7f8e62880050
+2024/11/06-12:28:34.271630 25                Options.max_file_opening_threads: 16
+2024/11/06-12:28:34.271631 25                              Options.statistics: (nil)
+2024/11/06-12:28:34.271634 25                               Options.use_fsync: 0
+2024/11/06-12:28:34.271636 25                       Options.max_log_file_size: 0
+2024/11/06-12:28:34.271637 25                  Options.max_manifest_file_size: 1073741824
+2024/11/06-12:28:34.271639 25                   Options.log_file_time_to_roll: 0
+2024/11/06-12:28:34.271641 25                       Options.keep_log_file_num: 1000
+2024/11/06-12:28:34.271643 25                    Options.recycle_log_file_num: 0
+2024/11/06-12:28:34.271645 25                         Options.allow_fallocate: 1
+2024/11/06-12:28:34.271647 25                        Options.allow_mmap_reads: 0
+2024/11/06-12:28:34.271648 25                       Options.allow_mmap_writes: 0
+2024/11/06-12:28:34.271650 25                        Options.use_direct_reads: 0
+2024/11/06-12:28:34.271652 25                        Options.use_direct_io_for_flush_and_compaction: 0
+2024/11/06-12:28:34.271654 25          Options.create_missing_column_families: 0
+2024/11/06-12:28:34.271656 25                              Options.db_log_dir: 
+2024/11/06-12:28:34.271658 25                                 Options.wal_dir: 
+2024/11/06-12:28:34.271659 25                Options.table_cache_numshardbits: 6
+2024/11/06-12:28:34.271661 25                         Options.WAL_ttl_seconds: 0
+2024/11/06-12:28:34.271663 25                       Options.WAL_size_limit_MB: 0
+2024/11/06-12:28:34.271664 25                        Options.max_write_batch_group_size_bytes: 1048576
+2024/11/06-12:28:34.271666 25             Options.manifest_preallocation_size: 4194304
+2024/11/06-12:28:34.271668 25                     Options.is_fd_close_on_exec: 1
+2024/11/06-12:28:34.271670 25                   Options.advise_random_on_open: 1
+2024/11/06-12:28:34.271672 25                   Options.experimental_mempurge_threshold: 0.000000
+2024/11/06-12:28:34.271677 25                    Options.db_write_buffer_size: 0
+2024/11/06-12:28:34.271679 25                    Options.write_buffer_manager: 0x7f8e648600a0
+2024/11/06-12:28:34.271681 25         Options.access_hint_on_compaction_start: 1
+2024/11/06-12:28:34.271683 25  Options.new_table_reader_for_compaction_inputs: 0
+2024/11/06-12:28:34.271685 25           Options.random_access_max_buffer_size: 1048576
+2024/11/06-12:28:34.271687 25                      Options.use_adaptive_mutex: 0
+2024/11/06-12:28:34.271689 25                            Options.rate_limiter: (nil)
+2024/11/06-12:28:34.271694 25     Options.sst_file_manager.rate_bytes_per_sec: 0
+2024/11/06-12:28:34.271696 25                      

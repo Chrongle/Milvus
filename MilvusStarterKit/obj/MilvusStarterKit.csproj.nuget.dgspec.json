@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\UCL\\PBA\\2.Semester\\DatabaseForUdviklere\\Milvus\\MilvusStarterKit\\MilvusStarterKit.csproj": {}
+  },
+  "projects": {
+    "C:\\UCL\\PBA\\2.Semester\\DatabaseForUdviklere\\Milvus\\MilvusStarterKit\\MilvusStarterKit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UCL\\PBA\\2.Semester\\DatabaseForUdviklere\\Milvus\\MilvusStarterKit\\MilvusStarterKit.csproj",
+        "projectName": "MilvusStarterKit",
+        "projectPath": "C:\\UCL\\PBA\\2.Semester\\DatabaseForUdviklere\\Milvus\\MilvusStarterKit\\MilvusStarterKit.csproj",
+        "packagesPath": "c:\\udv\\nuget_packages",
+        "outputPath": "C:\\UCL\\PBA\\2.Semester\\DatabaseForUdviklere\\Milvus\\MilvusStarterKit\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\csc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/ky8B39iJqeSNCyjyjkjIoEz9hihq1kLDsMBSloe6GmNZv6omTY/api": {},
+          "https://tfs.unik.dk/tfs/DefaultCollection/_packaging/Unik.Bolig.Components/nuget/v3/index.json": {},
+          "https://tfs.unik.dk/tfs/DefaultCollection/_packaging/Unik.Bolig.Dataspecialist/nuget/v3/index.json": {},
+          "https://tfs.unik.dk/tfs/DefaultCollection/_packaging/Unik.Bolig.Nuget/nuget/v3/index.json": {},
+          "https://tfs.unik.dk/tfs/DefaultCollection/_packaging/Unik.Bolig.Tools/nuget/v3/index.json": {},
+          "https://tfs.unik.dk/tfs/DefaultCollection/_packaging/Unik.Components%40Local/nuget/v3/index.json": {},
+          "https://tfs.unik.dk/tfs/DefaultCollection/_packaging/Unik.Components/nuget/v3/index.json": {},
+          "https://tfs.unik.dk/tfs/DefaultCollection/_packaging/Unik.Converters/nuget/v3/index.json": {},
+          "https://tfs.unik.dk/tfs/DefaultCollection/_packaging/Unik.DevExpress/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Milvus.Client": {
+              "target": "Package",
+              "version": "[2.2.2-preview.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

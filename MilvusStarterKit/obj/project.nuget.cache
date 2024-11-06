@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "sVNXXuObVnhyN4H7JZSXW5jtcK5DVQTjTl9stgmsMYY1r/pBlOTsCXCOh6nltG1EfokMggEt+Oflm1C/xUjh+w==",
+  "success": true,
+  "projectFilePath": "C:\\UCL\\PBA\\2.Semester\\DatabaseForUdviklere\\Milvus\\MilvusStarterKit\\MilvusStarterKit.csproj",
+  "expectedPackageFiles": [
+    "c:\\udv\\nuget_packages\\google.protobuf\\3.24.2\\google.protobuf.3.24.2.nupkg.sha512",
+    "c:\\udv\\nuget_packages\\grpc.core.api\\2.56.0\\grpc.core.api.2.56.0.nupkg.sha512",
+    "c:\\udv\\nuget_packages\\grpc.net.client\\2.56.0\\grpc.net.client.2.56.0.nupkg.sha512",
+    "c:\\udv\\nuget_packages\\grpc.net.common\\2.56.0\\grpc.net.common.2.56.0.nupkg.sha512",
+    "c:\\udv\\nuget_packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "c:\\udv\\nuget_packages\\milvus.client\\2.2.2-preview.6\\milvus.client.2.2.2-preview.6.nupkg.sha512",
+    "c:\\udv\\nuget_packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "c:\\udv\\nuget_packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
