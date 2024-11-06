@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MilvusStarterKit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80ede97d2dcad1bb949fb5c82e04780488e4f640")]
 [assembly: System.Reflection.AssemblyProductAttribute("MilvusStarterKit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MilvusStarterKit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

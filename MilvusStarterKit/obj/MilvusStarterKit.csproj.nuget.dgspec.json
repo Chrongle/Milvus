@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UCL\\PBA\\2.Semester\\DatabaseForUdviklere\\Milvus\\MilvusStarterKit\\MilvusStarterKit.csproj": {}
+    "D:\\UCL\\PBA\\2. Semester\\Database\\Milvus\\MilvusStarterKit\\MilvusStarterKit.csproj": {}
   },
   "projects": {
-    "C:\\UCL\\PBA\\2.Semester\\DatabaseForUdviklere\\Milvus\\MilvusStarterKit\\MilvusStarterKit.csproj": {
+    "D:\\UCL\\PBA\\2. Semester\\Database\\Milvus\\MilvusStarterKit\\MilvusStarterKit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UCL\\PBA\\2.Semester\\DatabaseForUdviklere\\Milvus\\MilvusStarterKit\\MilvusStarterKit.csproj",
+        "projectUniqueName": "D:\\UCL\\PBA\\2. Semester\\Database\\Milvus\\MilvusStarterKit\\MilvusStarterKit.csproj",
         "projectName": "MilvusStarterKit",
-        "projectPath": "C:\\UCL\\PBA\\2.Semester\\DatabaseForUdviklere\\Milvus\\MilvusStarterKit\\MilvusStarterKit.csproj",
-        "packagesPath": "c:\\udv\\nuget_packages",
-        "outputPath": "C:\\UCL\\PBA\\2.Semester\\DatabaseForUdviklere\\Milvus\\MilvusStarterKit\\obj\\",
+        "projectPath": "D:\\UCL\\PBA\\2. Semester\\Database\\Milvus\\MilvusStarterKit\\MilvusStarterKit.csproj",
+        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
+        "outputPath": "D:\\UCL\\PBA\\2. Semester\\Database\\Milvus\\MilvusStarterKit\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\csc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,16 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/ky8B39iJqeSNCyjyjkjIoEz9hihq1kLDsMBSloe6GmNZv6omTY/api": {},
-          "https://tfs.unik.dk/tfs/DefaultCollection/_packaging/Unik.Bolig.Components/nuget/v3/index.json": {},
-          "https://tfs.unik.dk/tfs/DefaultCollection/_packaging/Unik.Bolig.Dataspecialist/nuget/v3/index.json": {},
-          "https://tfs.unik.dk/tfs/DefaultCollection/_packaging/Unik.Bolig.Nuget/nuget/v3/index.json": {},
-          "https://tfs.unik.dk/tfs/DefaultCollection/_packaging/Unik.Bolig.Tools/nuget/v3/index.json": {},
-          "https://tfs.unik.dk/tfs/DefaultCollection/_packaging/Unik.Components%40Local/nuget/v3/index.json": {},
-          "https://tfs.unik.dk/tfs/DefaultCollection/_packaging/Unik.Components/nuget/v3/index.json": {},
-          "https://tfs.unik.dk/tfs/DefaultCollection/_packaging/Unik.Converters/nuget/v3/index.json": {},
-          "https://tfs.unik.dk/tfs/DefaultCollection/_packaging/Unik.DevExpress/nuget/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -56,7 +52,7 @@
           "dependencies": {
             "Milvus.Client": {
               "target": "Package",
-              "version": "[2.2.2-preview.6, )"
+              "version": "[2.3.0-preview.1, )"
             }
           },
           "imports": [
@@ -75,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
